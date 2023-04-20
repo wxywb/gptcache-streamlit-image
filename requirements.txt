@@ -1,2 +1,7 @@
 gptcache
-PIL
+pillow
+streamlit
+onnxruntime
+faiss-cpu
+transformers
+sqlalchemy
